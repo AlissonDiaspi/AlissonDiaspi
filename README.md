@@ -139,13 +139,7 @@ Java, Spring Boot, Spring Security, JWT e PostgreSQL
 📥 <a href="https://raw.githubusercontent.com/AlissonDiaspi/portfolio-assets/main/Curriculo.pdf" target="_blank">Baixar Currículo</a>
 </p>
 
-<h2 align="left">📊 GitHub Stats</h2>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlissonDiaspi&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlissonDiaspi&layout=compact&theme=github_dark"/>
-</div>
 
 <h2 align="left">📫 Contato</h2>
 
