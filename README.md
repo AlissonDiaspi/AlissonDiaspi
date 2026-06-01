@@ -52,6 +52,33 @@ Meu nome é Alisson Dias e sou um desenvolvedor de software
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
 </div>
 
+<h2 align="left">💼 Experiência</h2>
+
+### 🏢 V12 Sistemas
+
+Prestação de serviços para desenvolvimento de soluções web.
+
+**Atividades:**
+- Desenvolvimento de website institucional responsivo
+- Implementação de interfaces modernas e intuitivas
+- Participação no levantamento de requisitos e entrega da solução
+- Aplicação de boas práticas de desenvolvimento web
+- Integração entre frontend e backend
+
+---
+
+### 📰 Projeto de Automação para Empresa Jornalística
+
+Desenvolvimento de solução automatizada para publicação de notícias em redes sociais.
+
+**Atividades:**
+- Integração com APIs externas para obtenção de notícias
+- Integração com Inteligência Artificial para reescrita e adaptação automática de conteúdos
+- Integração com Meta Graph API para publicação automatizada no Instagram
+- Desenvolvimento de fluxo automatizado para redução de atividades manuais
+- Consumo e integração de APIs REST
+- Automação de processos e distribuição de conteúdo digital
+
 <h2 align="left">🚀 Projetos em Destaque</h2>
 
 ### 🏢 Enterprise Management System
