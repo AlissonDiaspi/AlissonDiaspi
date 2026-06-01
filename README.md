@@ -133,11 +133,14 @@ Java, Spring Boot, Spring Security, JWT e PostgreSQL
 🔗 Repositório:
 <a href="https://github.com/AlissonDiaspi/SecurityJWT">Security JWT API</a>
 
+
+
 <h2 align="left">📄 Currículo</h2>
 
 <p align="left">
 📥 <a href="https://raw.githubusercontent.com/AlissonDiaspi/portfolio-assets/main/Curriculo.pdf" target="_blank">Baixar Currículo</a>
 </p>
+
 
 
 
