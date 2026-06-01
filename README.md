@@ -1,11 +1,11 @@
 <h1 align="left">Olá 👋 Tudo bem?</h1>
 
 <p align="left">
-Meu nome é Alisson Dias e sou um desenvolvedor de software 
+Meu nome é Alisson Dias e sou um desenvolvedor de Software 
 </p>
 
 <p align="left">
-🚀 Desenvolvedor Full Stack em formação, apaixonado por tecnologia, arquitetura de software e desenvolvimento de aplicações web escaláveis.
+🚀 Desenvolvedor de Software em formação, apaixonado por tecnologia, arquitetura de software e desenvolvimento de aplicações web escaláveis.
 </p>
 
 <h2 align="left">👨‍💻 Sobre mim</h2>
@@ -19,7 +19,7 @@ Meu nome é Alisson Dias e sou um desenvolvedor de software
 
 📚 Sempre aprendendo sobre arquitetura de software, microsserviços, bancos de dados, boas práticas e desenvolvimento backend.<br><br>
 
-🎯 Objetivo: me tornar um desenvolvedor de software especializado em sistemas de alta performance, microsserviços e soluções SaaS.
+🎯 Objetivo: me tornar um desenvolvedor especializado em sistemas de alta performance, microsserviços e soluções SaaS.
 </p>
 
 <h2 align="left">🛠️ Minhas principais ferramentas são:</h2>
