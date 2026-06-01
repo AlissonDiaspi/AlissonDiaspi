@@ -52,7 +52,7 @@ Meu nome é Alisson Dias e sou um desenvolvedor de software
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
 </div>
 
-<h2 align="left">💼 Experiência</h2>
+<h2 align="left">💼 Experiência Profissional</h2>
 
 ### 🏢 V12 Sistemas
 
