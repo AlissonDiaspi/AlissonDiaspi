@@ -1,7 +1,7 @@
 <h1 align="left">Olá 👋 Tudo bem?</h1>
 
 <p align="left">
-Meu nome é Alisson Dias e sou um desenvolvedor de software brasileiro.
+Meu nome é Alisson Dias e sou um desenvolvedor de software 
 </p>
 
 <p align="left">
