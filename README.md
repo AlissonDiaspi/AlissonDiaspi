@@ -5,7 +5,7 @@ Meu nome é Alisson Dias e sou um desenvolvedor de Software
 </p>
 
 <p align="left">
-🚀 Desenvolvedor de Software em formação, apaixonado por tecnologia, arquitetura de software e desenvolvimento de aplicações web escaláveis.
+🚀 Desenvolvedor de Software em formação, focado em arquitetura de software e desenvolvimento de aplicações web escaláveis.
 </p>
 
 <h2 align="left">👨‍💻 Sobre mim</h2>
