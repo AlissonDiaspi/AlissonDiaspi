@@ -165,7 +165,7 @@ Java, Spring Boot, Spring Security, JWT e PostgreSQL
 <h2 align="left">📄 Currículo</h2>
 
 <p align="left">
-📥 <a href="https://raw.githubusercontent.com/AlissonDiaspi/portfolio-assets/main/Curriculo.pdf" target="_blank">Baixar Currículo</a>
+📥 <a href="https://raw.githubusercontent.com/AlissonDiaspi/portfolio-assets/main/Currículo.pdf" target="_blank">Baixar Currículo</a>
 </p>
 
 
