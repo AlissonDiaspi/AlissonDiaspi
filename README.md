@@ -54,30 +54,20 @@ Meu nome é Alisson Dias e sou um desenvolvedor de Software
 
 <h2 align="left">💼 Experiência Profissional</h2>
 
-### 🏢 V12 Sistemas
+### 🔬 Bolsista de Iniciação Científica (IC A) — CNPq/UESC | NIT/UESC
 
-Prestação de serviços para desenvolvimento de soluções web.
-
-**Atividades:**
-- Desenvolvimento de website institucional responsivo
-- Implementação de interfaces modernas e intuitivas
-- Participação no levantamento de requisitos e entrega da solução
-- Aplicação de boas práticas de desenvolvimento web
-- Integração entre frontend e backend
+- Resolvi a falta de controle sobre os processos de propriedade intelectual dos NITs, desenvolvendo um sistema que centraliza pedidos, documentação e monitoramento
+- Otimizei a troca de informações entre administradores e inventores com manutenção do backend em Django
+- Simplifiquei a análise de solicitações de PI construindo interfaces administrativas em React e Tailwind CSS
+- Resolvi a falta de um canal direto de comunicação implementando um chat seguro entre inventores e administradores
 
 ---
 
-### 📰 Projeto de Automação para Empresa Jornalística
+### 🏢 V12 Sistemas — Desenvolvedor Full Stack
 
-Desenvolvimento de solução automatizada para publicação de notícias em redes sociais.
-
-**Atividades:**
-- Integração com APIs externas para obtenção de notícias
-- Integração com Inteligência Artificial para reescrita e adaptação automática de conteúdos
-- Integração com Meta Graph API para publicação automatizada no Instagram
-- Desenvolvimento de fluxo automatizado para redução de atividades manuais
-- Consumo e integração de APIs REST
-- Automação de processos e distribuição de conteúdo digital
+- Resolvi a baixa presença digital da empresa projetando e desenvolvendo um website institucional responsivo, do levantamento de requisitos à entrega
+- Automatizei a publicação de notícias em redes sociais integrando APIs externas, Inteligência Artificial (reescrita de conteúdo) e a Meta Graph API
+- Resolvi a ausência de uma ferramenta de gestão para personal trainers projetando e desenvolvendo um SaaS completo com Next.js (frontend mobile-first) e NestJS (backend), cobrindo alunos, treinos em vídeo, avaliações físicas, pagamentos via PIX, FAQ em vídeo e notificações em tempo real
 
 <h2 align="left">🚀 Projetos em Destaque</h2>
 
