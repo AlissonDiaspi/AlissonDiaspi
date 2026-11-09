@@ -16,10 +16,6 @@ Meu nome é **Alisson Dias** e sou desenvolvedor de software, com experiência e
 
 ⚙️ Experiência prática com integração de modelos de Machine Learning em aplicações, APIs REST, Docker, MLflow, monitoramento e pipelines de treinamento.
 
-📚 Interesse em MLOps, arquitetura de software, sistemas escaláveis, microsserviços e desenvolvimento de soluções inteligentes.
-
-🎯 **Objetivo:** atuar como Machine Learning Engineer ou AI Engineer, combinando minha experiência em Engenharia de Software com o desenvolvimento e a operacionalização de soluções de Inteligência Artificial.
-
 ## 🛠️ Minhas principais ferramentas
 
 <div align="left">
